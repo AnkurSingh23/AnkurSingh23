@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Ankur Singh
+# Hi, I'm Ankur Singh
 
-🎓 CS Student | 💻 Python & C++ Programmer | 🛠️ Building cool stuff weekly
+ CS Student | Python & C++ Programmer | Building cool stuff weekly
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- 🔧 Building one mini-project per week
-- 🧠 Practicing Data Structures & Algorithms in C++
-- 🤖 Learning Machine Learning fundamentals with Python
-- 🌱 Exploring Web Dev and CLI tools
+- Building one mini-project per week
+- Practicing Data Structures & Algorithms in C++
+- Learning Machine Learning fundamentals with Python
+- Exploring Web Dev and CLI tools
 
 ---
 
@@ -27,6 +27,6 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/ankursingh77)
+- [LinkedIn](https://linkedin.com/in/ankursingh77)
