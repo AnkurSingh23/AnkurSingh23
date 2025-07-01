@@ -20,13 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkurSingh23&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurSingh23&layout=compact)
-
----
-
 ## Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/ankursingh77)
